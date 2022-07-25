@@ -1,0 +1,122 @@
+#p1{background-color:rgb(179, 97, 187);
+    height: 20%;
+    text-align: center;
+    vertical-align: middle;
+    border: 2px;
+    border-color:black;
+    border-style: double;
+    padding: 2px;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    }
+    table{border: 5px;
+    border-color: blueviolet;
+    font-size: 30px;
+    font-weight: bold;
+    align-items: center;
+    color: aliceblue;
+    border-style: double;}
+    #p2{background-color: rgb(50, 50, 194);
+        background-image:url("img1.jpg");
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+    font-size:3vw ;
+    font-weight:bold ;
+    text-align: center;
+    color: aliceblue;
+    margin: 0;
+    padding: 0;}
+    .st{ position: -webkit-sticky;
+    position: sticky;
+top: 100px;
+padding: 10px;}
+    .navbar{background-color: black;
+    border-radius: 30px;}
+    .navbar ul{overflow: auto;}
+    .navbar li{
+        float: left;
+        list-style: none;
+        margin: 13px 20px;
+    }
+    .navbar li a{
+        padding: 3px 3px;
+        text-decoration: none;
+        color: aliceblue;
+    }
+        .navbar li a:hover{
+            color: red;
+        }
+        .search{
+            float:right;
+            color: aliceblue;
+            padding: 20px 75px;
+        }
+        .navbar input{
+            border: 2px solid black;
+            border-radius: 14 px;
+            padding: 3px 17px;
+            width: 129px;
+        }
+    #p3{background-color: rgb(164, 45, 211);
+        height: 260px;
+        font-size: 25px;
+        font-weight: bold;
+        text-align: center;
+        color: aliceblue;  
+        margin: 0;
+        padding: 0; 
+    }
+    .container{position: relative;
+    text-align: center;
+    color: aliceblue;}
+    body{background-color:aliceblue;}
+    #c1{
+        background-color: aliceblue;
+        font-size: 4vw;
+        padding: 0;
+        margin: 0;
+    }
+    #p4{margin: 0px;
+        padding: 0;
+        height: 50px;}
+        #p5{background-color: blue;
+            text-align: center;
+            font-size: 30px;
+            font-weight: bold;
+            color: aliceblue;
+            height: 50px;
+        }
+.m{font size:2vw}
+.m1{float: left;
+margin: 0;
+padding: 0;}
+.m2{float:left;
+margin-left: 27%;
+top: 0;
+padding: 0;}
+.m3{float: right;
+margin:0px;
+padding: 0;}
+.p1{ float: left;
+margin: 0;
+padding: 0;}
+.p2{ float: right;
+margin: 0;
+padding: 0;}
+#c2{font-size: 2vw;
+color: blue;}
+#c3{ font-size: 2vw;
+color: blue;}
+.f1{  float: left;
+margin: 0;
+padding: 0;}
+.f2{float: right;
+margin: 0;
+padding: 0;}
+#c4{font-size: 2vw;
+color: blue;}
